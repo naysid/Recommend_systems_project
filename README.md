@@ -1,4 +1,4 @@
-# Recommend_sysytems_project
+# Recommend_systems_project
 Everyday a million products are being recommended to users based on
 popularity and other metrics on e-commerce websites. The most popular e-commerce
 website boosts average order value by 50%, increases revenues by 300%, and
